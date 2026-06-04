@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CampusRun" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_yellow</item>
+        <item name="colorSecondary">@color/brand_yellow_dark</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:navigationBarColor">@color/brand_surface</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Theme.CampusRun" parent="Base.Theme.CampusRun" />
+</resources>
