@@ -1,0 +1,4 @@
+com.tianjin.wenlu.test.app-updated_navigation_xml-0 D:\UserData\Desktop\津门文旅智能分析与路线规划平台\android\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.tianjin.wenlu.test.app-packageDebugAndroidTestResources-1 D:\UserData\Desktop\津门文旅智能分析与路线规划平台\android\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.tianjin.wenlu.test.app-packageDebugAndroidTestResources-2 D:\UserData\Desktop\津门文旅智能分析与路线规划平台\android\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.tianjin.wenlu.test.app-debugAndroidTest-3 D:\UserData\Desktop\津门文旅智能分析与路线规划平台\android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

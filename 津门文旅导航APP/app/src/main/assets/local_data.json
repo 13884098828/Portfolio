@@ -1,0 +1,971 @@
+{
+ "scenics": [
+  {
+   "id": 1,
+   "name": "天津之眼",
+   "category": "城市地标",
+   "longitude": 117.2044,
+   "latitude": 39.1525,
+   "score": 4.7,
+   "heat": 50000,
+   "capacity": 22000,
+   "ticket_price": 70.0,
+   "address": "河北区三岔河口永乐桥上",
+   "intro": "世界上唯一建在桥上的摩天轮，海河夜景绝佳观赏点。",
+   "tags": [
+    "夜景",
+    "地标",
+    "情侣"
+   ],
+   "duration_minutes": 90,
+   "open_time": "09:30-21:30"
+  },
+  {
+   "id": 2,
+   "name": "五大道",
+   "category": "历史文化",
+   "longitude": 117.202,
+   "latitude": 39.108,
+   "score": 4.8,
+   "heat": 45000,
+   "capacity": 50000,
+   "ticket_price": 0.0,
+   "address": "和平区重庆道",
+   "intro": "万国建筑博览苑，汇集英法意德西等国风貌建筑。",
+   "tags": [
+    "历史",
+    "建筑",
+    "拍照",
+    "文化"
+   ],
+   "duration_minutes": 240,
+   "open_time": "全天开放"
+  },
+  {
+   "id": 3,
+   "name": "古文化街",
+   "category": "美食街区",
+   "longitude": 117.19,
+   "latitude": 39.143,
+   "score": 4.6,
+   "heat": 40000,
+   "capacity": 39000,
+   "ticket_price": 0.0,
+   "address": "南开区通北路",
+   "intro": "天津老字号与民间手工艺聚集地，泥人张、杨柳青年画。",
+   "tags": [
+    "美食",
+    "文化",
+    "购物",
+    "民俗"
+   ],
+   "duration_minutes": 150,
+   "open_time": "09:00-22:00"
+  },
+  {
+   "id": 4,
+   "name": "意式风情区",
+   "category": "历史文化",
+   "longitude": 117.205,
+   "latitude": 39.137,
+   "score": 4.5,
+   "heat": 38000,
+   "capacity": 41000,
+   "ticket_price": 0.0,
+   "address": "河北区自由道",
+   "intro": "原意大利租界，意式建筑群与酒吧餐饮街。",
+   "tags": [
+    "建筑",
+    "美食",
+    "拍照",
+    "历史"
+   ],
+   "duration_minutes": 180,
+   "open_time": "全天开放"
+  },
+  {
+   "id": 5,
+   "name": "瓷房子",
+   "category": "历史文化",
+   "longitude": 117.197,
+   "latitude": 39.124,
+   "score": 4.4,
+   "heat": 35000,
+   "capacity": 14500,
+   "ticket_price": 50.0,
+   "address": "和平区赤峰道72号",
+   "intro": "用数亿片古瓷片与水晶玛瑙装饰的奇特建筑。",
+   "tags": [
+    "建筑",
+    "历史",
+    "拍照",
+    "新奇"
+   ],
+   "duration_minutes": 90,
+   "open_time": "09:00-18:00"
+  },
+  {
+   "id": 6,
+   "name": "天津博物馆",
+   "category": "历史文化",
+   "longitude": 117.219,
+   "latitude": 39.082,
+   "score": 4.6,
+   "heat": 30000,
+   "capacity": 17500,
+   "ticket_price": 0.0,
+   "address": "河西区平江道62号",
+   "intro": "天津历史与艺术文物收藏展示中心。",
+   "tags": [
+    "历史",
+    "文化",
+    "科教",
+    "亲子"
+   ],
+   "duration_minutes": 180,
+   "open_time": "09:00-16:30"
+  },
+  {
+   "id": 7,
+   "name": "西开教堂",
+   "category": "历史文化",
+   "longitude": 117.194,
+   "latitude": 39.117,
+   "score": 4.5,
+   "heat": 28000,
+   "capacity": 18500,
+   "ticket_price": 0.0,
+   "address": "和平区西宁道9号",
+   "intro": "天津最大罗马式建筑，彩色玻璃穹顶庄重华丽。",
+   "tags": [
+    "建筑",
+    "历史",
+    "拍照"
+   ],
+   "duration_minutes": 60,
+   "open_time": "05:00-16:30"
+  },
+  {
+   "id": 8,
+   "name": "海河游船",
+   "category": "城市地标",
+   "longitude": 117.202,
+   "latitude": 39.135,
+   "score": 4.6,
+   "heat": 32000,
+   "capacity": 13500,
+   "ticket_price": 100.0,
+   "address": "和平区台儿庄路码头",
+   "intro": "乘船夜游海河，一览两岸地标灯光。",
+   "tags": [
+    "夜景",
+    "地标",
+    "情侣",
+    "放松"
+   ],
+   "duration_minutes": 60,
+   "open_time": "10:00-21:00"
+  },
+  {
+   "id": 9,
+   "name": "天津站世纪钟",
+   "category": "城市地标",
+   "longitude": 117.211,
+   "latitude": 39.135,
+   "score": 4.3,
+   "heat": 22000,
+   "capacity": 20000,
+   "ticket_price": 0.0,
+   "address": "河北区天津站前广场",
+   "intro": "天津站地标性大型雕塑钟，交通枢纽打卡点。",
+   "tags": [
+    "地标",
+    "拍照"
+   ],
+   "duration_minutes": 30,
+   "open_time": "全天开放"
+  },
+  {
+   "id": 10,
+   "name": "解放桥",
+   "category": "城市地标",
+   "longitude": 117.21,
+   "latitude": 39.136,
+   "score": 4.4,
+   "heat": 20000,
+   "capacity": 24000,
+   "ticket_price": 0.0,
+   "address": "和平区解放北路",
+   "intro": "全钢结构可开启桥梁，海河上的百年名桥。",
+   "tags": [
+    "地标",
+    "历史",
+    "夜景"
+   ],
+   "duration_minutes": 45,
+   "open_time": "全天开放"
+  },
+  {
+   "id": 11,
+   "name": "民园体育场",
+   "category": "城市地标",
+   "longitude": 117.203,
+   "latitude": 39.111,
+   "score": 4.5,
+   "heat": 26000,
+   "capacity": 21000,
+   "ticket_price": 0.0,
+   "address": "和平区重庆道83号",
+   "intro": "五大道核心区的下沉式休闲广场与百年体育场。",
+   "tags": [
+    "地标",
+    "拍照",
+    "休闲"
+   ],
+   "duration_minutes": 60,
+   "open_time": "全天开放"
+  },
+  {
+   "id": 12,
+   "name": "鼓楼",
+   "category": "历史文化",
+   "longitude": 117.185,
+   "latitude": 39.139,
+   "score": 4.4,
+   "heat": 18000,
+   "capacity": 10000,
+   "ticket_price": 10.0,
+   "address": "南开区鼓楼东街",
+   "intro": "天津卫标志性古建筑，老城厢文化中心。",
+   "tags": [
+    "历史",
+    "文化",
+    "民俗"
+   ],
+   "duration_minutes": 60,
+   "open_time": "08:30-17:30"
+  },
+  {
+   "id": 13,
+   "name": "天后宫",
+   "category": "历史文化",
+   "longitude": 117.191,
+   "latitude": 39.143,
+   "score": 4.5,
+   "heat": 19000,
+   "capacity": 10000,
+   "ticket_price": 10.0,
+   "address": "南开区古文化街内",
+   "intro": "天津现存最早的妈祖庙，民俗信仰胜地。",
+   "tags": [
+    "历史",
+    "文化",
+    "民俗"
+   ],
+   "duration_minutes": 60,
+   "open_time": "09:00-17:00"
+  },
+  {
+   "id": 14,
+   "name": "静园",
+   "category": "历史文化",
+   "longitude": 117.19,
+   "latitude": 39.121,
+   "score": 4.4,
+   "heat": 16000,
+   "capacity": 6000,
+   "ticket_price": 20.0,
+   "address": "和平区鞍山道70号",
+   "intro": "末代皇帝溥仪旧居，中西合璧庭院。",
+   "tags": [
+    "历史",
+    "建筑"
+   ],
+   "duration_minutes": 60,
+   "open_time": "08:30-17:00"
+  },
+  {
+   "id": 15,
+   "name": "大悲禅院",
+   "category": "历史文化",
+   "longitude": 117.188,
+   "latitude": 39.153,
+   "score": 4.5,
+   "heat": 15000,
+   "capacity": 7500,
+   "ticket_price": 5.0,
+   "address": "河北区天纬路40号",
+   "intro": "天津最大佛教寺院，香火鼎盛。",
+   "tags": [
+    "历史",
+    "文化",
+    "祈福"
+   ],
+   "duration_minutes": 60,
+   "open_time": "09:00-16:30"
+  },
+  {
+   "id": 16,
+   "name": "水上公园",
+   "category": "自然风光",
+   "longitude": 117.169,
+   "latitude": 39.089,
+   "score": 4.5,
+   "heat": 25000,
+   "capacity": 33000,
+   "ticket_price": 0.0,
+   "address": "南开区水上公园路",
+   "intro": "津门十景之一，湖光塔影、四季花展。",
+   "tags": [
+    "自然",
+    "亲子",
+    "放松",
+    "拍照"
+   ],
+   "duration_minutes": 180,
+   "open_time": "06:00-22:00"
+  },
+  {
+   "id": 17,
+   "name": "南开大学",
+   "category": "人文校园",
+   "longitude": 117.165,
+   "latitude": 39.101,
+   "score": 4.6,
+   "heat": 17000,
+   "capacity": 18000,
+   "ticket_price": 0.0,
+   "address": "南开区卫津路94号",
+   "intro": "百年名校，马蹄湖与校钟等校园人文景观。",
+   "tags": [
+    "文化",
+    "科教",
+    "校园"
+   ],
+   "duration_minutes": 120,
+   "open_time": "全天开放"
+  },
+  {
+   "id": 18,
+   "name": "天津大学",
+   "category": "人文校园",
+   "longitude": 117.172,
+   "latitude": 39.113,
+   "score": 4.6,
+   "heat": 15000,
+   "capacity": 16500,
+   "ticket_price": 0.0,
+   "address": "南开区卫津路92号",
+   "intro": "中国第一所现代大学，北洋园与海棠季。",
+   "tags": [
+    "文化",
+    "科教",
+    "校园"
+   ],
+   "duration_minutes": 120,
+   "open_time": "全天开放"
+  },
+  {
+   "id": 19,
+   "name": "杨柳青古镇",
+   "category": "历史文化",
+   "longitude": 117.03,
+   "latitude": 39.128,
+   "score": 4.5,
+   "heat": 21000,
+   "capacity": 15500,
+   "ticket_price": 0.0,
+   "address": "西青区杨柳青镇",
+   "intro": "年画之乡，运河古镇青砖灰瓦。",
+   "tags": [
+    "民俗",
+    "历史",
+    "文化",
+    "美食"
+   ],
+   "duration_minutes": 180,
+   "open_time": "08:30-17:30"
+  },
+  {
+   "id": 20,
+   "name": "石家大院",
+   "category": "历史文化",
+   "longitude": 117.035,
+   "latitude": 39.129,
+   "score": 4.5,
+   "heat": 14000,
+   "capacity": 7500,
+   "ticket_price": 25.0,
+   "address": "西青区杨柳青镇御河道",
+   "intro": "华北第一民宅，清代豪宅建筑群。",
+   "tags": [
+    "历史",
+    "建筑",
+    "民俗"
+   ],
+   "duration_minutes": 90,
+   "open_time": "08:30-17:30"
+  },
+  {
+   "id": 21,
+   "name": "天津方特欢乐世界",
+   "category": "主题乐园",
+   "longitude": 117.76,
+   "latitude": 39.1,
+   "score": 4.6,
+   "heat": 20000,
+   "capacity": 13500,
+   "ticket_price": 220.0,
+   "address": "滨海新区中生大道4888号",
+   "intro": "大型高科技主题乐园，过山车与4D影院。",
+   "tags": [
+    "亲子",
+    "游乐",
+    "刺激"
+   ],
+   "duration_minutes": 300,
+   "open_time": "09:30-17:30"
+  },
+  {
+   "id": 22,
+   "name": "天津欢乐谷",
+   "category": "主题乐园",
+   "longitude": 117.38,
+   "latitude": 39.17,
+   "score": 4.5,
+   "heat": 18000,
+   "capacity": 11500,
+   "ticket_price": 150.0,
+   "address": "东丽区东丽湖旅游度假区",
+   "intro": "大型综合主题公园，水陆两园。",
+   "tags": [
+    "亲子",
+    "游乐",
+    "刺激"
+   ],
+   "duration_minutes": 300,
+   "open_time": "09:30-18:00"
+  },
+  {
+   "id": 23,
+   "name": "国家海洋博物馆",
+   "category": "科普场馆",
+   "longitude": 117.75,
+   "latitude": 39.09,
+   "score": 4.8,
+   "heat": 27000,
+   "capacity": 12500,
+   "ticket_price": 0.0,
+   "address": "滨海新区海轩道377号",
+   "intro": "国家级海洋科普殿堂，恐龙与海洋生物标本。",
+   "tags": [
+    "亲子",
+    "科教",
+    "自然"
+   ],
+   "duration_minutes": 240,
+   "open_time": "09:00-17:00"
+  },
+  {
+   "id": 24,
+   "name": "泰达航母主题公园",
+   "category": "主题乐园",
+   "longitude": 117.74,
+   "latitude": 39.15,
+   "score": 4.5,
+   "heat": 19000,
+   "capacity": 11500,
+   "ticket_price": 220.0,
+   "address": "滨海新区汉沽八卦滩",
+   "intro": "以基辅号航母为核心的主题公园。",
+   "tags": [
+    "亲子",
+    "军事",
+    "游乐"
+   ],
+   "duration_minutes": 300,
+   "open_time": "09:00-17:30"
+  },
+  {
+   "id": 25,
+   "name": "滨海图书馆",
+   "category": "网红打卡",
+   "longitude": 117.69,
+   "latitude": 39.03,
+   "score": 4.7,
+   "heat": 24000,
+   "capacity": 9500,
+   "ticket_price": 0.0,
+   "address": "滨海新区旭升路347号",
+   "intro": "中国最美图书馆之一，白色波浪书山。",
+   "tags": [
+    "拍照",
+    "网红",
+    "文化"
+   ],
+   "duration_minutes": 90,
+   "open_time": "09:30-20:00"
+  },
+  {
+   "id": 26,
+   "name": "盘山风景区",
+   "category": "自然风光",
+   "longitude": 117.57,
+   "latitude": 40.095,
+   "score": 4.6,
+   "heat": 16000,
+   "capacity": 14000,
+   "ticket_price": 130.0,
+   "address": "蓟州区官庄镇",
+   "intro": "京东第一山，乾隆曾32次游历。",
+   "tags": [
+    "自然",
+    "登山",
+    "历史"
+   ],
+   "duration_minutes": 360,
+   "open_time": "08:00-17:00"
+  },
+  {
+   "id": 27,
+   "name": "黄崖关长城",
+   "category": "自然风光",
+   "longitude": 117.44,
+   "latitude": 40.23,
+   "score": 4.7,
+   "heat": 12000,
+   "capacity": 11500,
+   "ticket_price": 65.0,
+   "address": "蓟州区下营镇",
+   "intro": "明代长城险要关隘，水关与八卦城。",
+   "tags": [
+    "自然",
+    "历史",
+    "登山"
+   ],
+   "duration_minutes": 300,
+   "open_time": "08:00-17:00"
+  },
+  {
+   "id": 28,
+   "name": "梨木台风景区",
+   "category": "自然风光",
+   "longitude": 117.59,
+   "latitude": 40.19,
+   "score": 4.6,
+   "heat": 11000,
+   "capacity": 11500,
+   "ticket_price": 70.0,
+   "address": "蓟州区下营镇",
+   "intro": "国家森林公园，峰林峡谷溪瀑。",
+   "tags": [
+    "自然",
+    "亲子",
+    "登山"
+   ],
+   "duration_minutes": 300,
+   "open_time": "08:00-17:00"
+  },
+  {
+   "id": 29,
+   "name": "意大利风情旅游区码头",
+   "category": "城市地标",
+   "longitude": 117.207,
+   "latitude": 39.138,
+   "score": 4.4,
+   "heat": 23000,
+   "capacity": 11500,
+   "ticket_price": 0.0,
+   "address": "河北区民生路",
+   "intro": "海河游船码头，意风区滨河景观带。",
+   "tags": [
+    "夜景",
+    "地标"
+   ],
+   "duration_minutes": 60,
+   "open_time": "全天开放"
+  },
+  {
+   "id": 30,
+   "name": "津湾广场",
+   "category": "城市地标",
+   "longitude": 117.208,
+   "latitude": 39.133,
+   "score": 4.5,
+   "heat": 21000,
+   "capacity": 21000,
+   "ticket_price": 0.0,
+   "address": "和平区解放北路48号",
+   "intro": "海河畔欧式建筑群与观景平台，灯光秀主场。",
+   "tags": [
+    "夜景",
+    "地标",
+    "拍照"
+   ],
+   "duration_minutes": 90,
+   "open_time": "全天开放"
+  }
+ ],
+ "comments": [
+  {
+   "id": 1,
+   "scenic_id": 2,
+   "user_id": 1,
+   "content": "五大道环境很好，建筑非常有特色，适合慢慢逛，但是停车有点困难。",
+   "sentiment": "正面",
+   "rating": 4
+  },
+  {
+   "id": 2,
+   "scenic_id": 2,
+   "user_id": 1,
+   "content": "历史文化氛围浓厚，随手一拍都是大片，推荐黄昏时段去。",
+   "sentiment": "正面",
+   "rating": 5
+  },
+  {
+   "id": 3,
+   "scenic_id": 2,
+   "user_id": 1,
+   "content": "街区很大，走完全程比较累，建议穿舒适的鞋，旺季人很多。",
+   "sentiment": "中性",
+   "rating": 3
+  },
+  {
+   "id": 4,
+   "scenic_id": 1,
+   "user_id": 1,
+   "content": "天津之眼的夜景太美了，排队时间较长，建议提前网上购票。",
+   "sentiment": "正面",
+   "rating": 5
+  },
+  {
+   "id": 5,
+   "scenic_id": 1,
+   "user_id": 2,
+   "content": "摩天轮转一圈很快，票价略贵，但海河夜景值回票价。",
+   "sentiment": "正面",
+   "rating": 4
+  },
+  {
+   "id": 6,
+   "scenic_id": 3,
+   "user_id": 1,
+   "content": "古文化街小吃非常多，泥人张和年画很有意思，但节假日人挤人。",
+   "sentiment": "正面",
+   "rating": 4
+  },
+  {
+   "id": 7,
+   "scenic_id": 3,
+   "user_id": 2,
+   "content": "很有天津味道的街道，耳朵眼炸糕和熟梨糕必吃。",
+   "sentiment": "正面",
+   "rating": 5
+  },
+  {
+   "id": 8,
+   "scenic_id": 5,
+   "user_id": 1,
+   "content": "瓷房子确实独特震撼，就是门票有点贵，里面不大。",
+   "sentiment": "正面",
+   "rating": 4
+  },
+  {
+   "id": 9,
+   "scenic_id": 6,
+   "user_id": 2,
+   "content": "天津博物馆展品丰富，免费开放，带小朋友来很合适。",
+   "sentiment": "正面",
+   "rating": 5
+  },
+  {
+   "id": 10,
+   "scenic_id": 8,
+   "user_id": 1,
+   "content": "夜游海河体验很好，两岸灯光非常漂亮，风大记得带外套。",
+   "sentiment": "正面",
+   "rating": 5
+  },
+  {
+   "id": 11,
+   "scenic_id": 25,
+   "user_id": 2,
+   "content": "滨海图书馆设计感十足，适合拍照打卡，书很多很震撼。",
+   "sentiment": "正面",
+   "rating": 5
+  },
+  {
+   "id": 12,
+   "scenic_id": 16,
+   "user_id": 1,
+   "content": "水上公园免费又大，划船看花都很惬意，适合家庭出游。",
+   "sentiment": "正面",
+   "rating": 4
+  }
+ ],
+ "users": [
+  {
+   "id": 1,
+   "username": "demo",
+   "password_hash": "26b818949613d897b4570fb188e2f2913eda8ce4b8c5c6fdcf209979c6a41cc9",
+   "nickname": "文化旅人",
+   "age": 28,
+   "gender": "女",
+   "city": "北京",
+   "consumption_level": "中等"
+  },
+  {
+   "id": 2,
+   "username": "admin",
+   "password_hash": "3312b718cbb5b2d3f17d7211a440e1bbd66bcacc171eeda8227df7c448f39330",
+   "nickname": "运营管理员",
+   "age": 35,
+   "gender": "男",
+   "city": "天津",
+   "consumption_level": "中高"
+  },
+  {
+   "id": 3,
+   "username": "mom",
+   "password_hash": "26b818949613d897b4570fb188e2f2913eda8ce4b8c5c6fdcf209979c6a41cc9",
+   "nickname": "宝妈小张",
+   "age": 32,
+   "gender": "女",
+   "city": "北京",
+   "consumption_level": "中等"
+  },
+  {
+   "id": 4,
+   "username": "youth",
+   "password_hash": "26b818949613d897b4570fb188e2f2913eda8ce4b8c5c6fdcf209979c6a41cc9",
+   "nickname": "潮玩青年",
+   "age": 22,
+   "gender": "男",
+   "city": "天津",
+   "consumption_level": "中低"
+  },
+  {
+   "id": 5,
+   "username": "photo",
+   "password_hash": "26b818949613d897b4570fb188e2f2913eda8ce4b8c5c6fdcf209979c6a41cc9",
+   "nickname": "摄影阿凯",
+   "age": 26,
+   "gender": "男",
+   "city": "上海",
+   "consumption_level": "中等"
+  },
+  {
+   "id": 6,
+   "username": "relax",
+   "password_hash": "26b818949613d897b4570fb188e2f2913eda8ce4b8c5c6fdcf209979c6a41cc9",
+   "nickname": "休闲老李",
+   "age": 55,
+   "gender": "男",
+   "city": "天津",
+   "consumption_level": "中高"
+  }
+ ],
+ "profiles": [
+  {
+   "user_id": 1,
+   "travel_type": "文化探索型",
+   "interests": [
+    {
+     "tag": "历史",
+     "weight": 0.9
+    },
+    {
+     "tag": "建筑",
+     "weight": 0.85
+    },
+    {
+     "tag": "美食",
+     "weight": 0.8
+    },
+    {
+     "tag": "文化",
+     "weight": 0.75
+    },
+    {
+     "tag": "夜景",
+     "weight": 0.6
+    },
+    {
+     "tag": "购物",
+     "weight": 0.4
+    }
+   ],
+   "consumption_level": "中等"
+  },
+  {
+   "user_id": 2,
+   "travel_type": "休闲度假型",
+   "interests": [
+    {
+     "tag": "自然",
+     "weight": 0.7
+    },
+    {
+     "tag": "放松",
+     "weight": 0.6
+    }
+   ],
+   "consumption_level": "中高"
+  },
+  {
+   "user_id": 3,
+   "travel_type": "亲子旅游型",
+   "interests": [
+    {
+     "tag": "亲子",
+     "weight": 0.9
+    },
+    {
+     "tag": "科教",
+     "weight": 0.8
+    },
+    {
+     "tag": "游乐",
+     "weight": 0.7
+    },
+    {
+     "tag": "自然",
+     "weight": 0.5
+    }
+   ],
+   "consumption_level": "中等"
+  },
+  {
+   "user_id": 4,
+   "travel_type": "年轻潮玩型",
+   "interests": [
+    {
+     "tag": "刺激",
+     "weight": 0.9
+    },
+    {
+     "tag": "网红",
+     "weight": 0.8
+    },
+    {
+     "tag": "游乐",
+     "weight": 0.7
+    },
+    {
+     "tag": "夜景",
+     "weight": 0.6
+    }
+   ],
+   "consumption_level": "中低"
+  },
+  {
+   "user_id": 5,
+   "travel_type": "摄影打卡型",
+   "interests": [
+    {
+     "tag": "拍照",
+     "weight": 0.95
+    },
+    {
+     "tag": "夜景",
+     "weight": 0.8
+    },
+    {
+     "tag": "网红",
+     "weight": 0.7
+    },
+    {
+     "tag": "建筑",
+     "weight": 0.6
+    }
+   ],
+   "consumption_level": "中等"
+  },
+  {
+   "user_id": 6,
+   "travel_type": "休闲度假型",
+   "interests": [
+    {
+     "tag": "自然",
+     "weight": 0.8
+    },
+    {
+     "tag": "放松",
+     "weight": 0.8
+    },
+    {
+     "tag": "休闲",
+     "weight": 0.7
+    },
+    {
+     "tag": "美食",
+     "weight": 0.5
+    }
+   ],
+   "consumption_level": "中高"
+  }
+ ],
+ "behaviors": [
+  {
+   "user_id": 1,
+   "scenic_id": 2,
+   "action": "view"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 2,
+   "action": "favorite"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 5,
+   "action": "view"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 3,
+   "action": "search"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 3,
+   "action": "view"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 7,
+   "action": "view"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 4,
+   "action": "view"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 1,
+   "action": "search"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 1,
+   "action": "view"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 6,
+   "action": "route"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 12,
+   "action": "view"
+  },
+  {
+   "user_id": 1,
+   "scenic_id": 11,
+   "action": "search"
+  }
+ ]
+}
